@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Programming Ideas
 
-You can use the [editor on GitHub](https://github.com/vagnerlandio/programming-ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I created this repository to develop solutions for the "Programming Ideas 2" app, developed by Mbah Clinton
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can download the App from the follow link [Programming Idea 2 on Google Play](https://play.google.com/store/apps/details?id=com.alansa.ideabag2)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vagnerlandio/programming-ideas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://lh3.googleusercontent.com/5Q2H3WJ4026NsseVCVEPH5LbyfLKmVS8iYD5aMFHuWt5tQDqtWjei8_eyDfG7N0I6X0=w720-h310-rw) ![](https://lh3.googleusercontent.com/7uiMZM0XBlB5lIbHYB2SlLjb2xXoA6GaQu3PTC41huuBlRwKya3gkYZIb6lCQYvLAg=w720-h310-rw) ![](https://lh3.googleusercontent.com/bShog3If-uR8Ji4Ld0oOxXtMlhgfBJgncUsh-duj7tSkoWY8lXAMCA1HgkGYnU40oQ=w720-h310-rw) 
