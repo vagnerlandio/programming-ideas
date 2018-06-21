@@ -1,73 +1,73 @@
-# Numbers
+## Numbers
 
-1. ## Distance Between Two Cities
+1. ### Distance Between Two Cities
 
-- ## Tax Calculator
+2. ### Tax Calculator
 
-- ## Factorial Finder
+3. ### Factorial Finder
 
-- ## Happy Numbers
+4. ### Happy Numbers
 
-- ## Coin Flip Sumulation
+5. ### Coin Flip Sumulation
 
-- ## Household Budget Program
+6. ### Household Budget Program
 
-- ## Calculator
+7. ### Calculator
 
-- ## Find Pi to the Nth Digit
+8. ### Find Pi to the Nth Digit
 
-- ## Find e to the Nth Digit
+9. ### Find e to the Nth Digit
 
-- ## Fibonacci Sequence
+10. ### Fibonacci Sequence
 
-- ## Prime Factorization
+11. ### Prime Factorization
 
-- ## Next Prime Number
+12. ### Next Prime Number
 
-- ## Mortgage Calculator
+13. ### Mortgage Calculator
 
-- ## Change Return Program
+14. ### Change Return Program
 
-- ## Binary to Decimal and Back Converter
+15. ### Binary to Decimal and Back Converter
 
-- ## Alarm Clock
+16. ### Alarm Clock
 
-- ## Unit converter
+17. ### Unit converter
 
-- ## Least/Greatest Common Denominator
+18. ### Least/Greatest Common Denominator
 
-- ## Kaprekar numbers
+19. ### Kaprekar numbers
 
-- ## Guess the Number
+20. ### Guess the Number
 
-- ## Find the N-th Natural Number
+21. ### Find the N-th Natural Number
 
-- ## Neon Number
+22. ### Neon Number
 
-- ## Hady-Ramanujan Number
+23. ### Hady-Ramanujan Number
 
-- ## Romn Number Generator
+24. ### Romn Number Generator
 
-- ## Newtonian Gravity Simulation
+25. ### Newtonian Gravity Simulation
 
-- ## Pascal's Triangle
+26. ### Pascal's Triangle
 
-- ## Vigenere Cipher
+27. ### Vigenere Cipher
 
-- ## Gray Code
+28. ### Gray Code
 
-- ## Lotto
+29. ### Lotto
 
-- ## Roman to Arabic numeral converter
+30. ### Roman to Arabic numeral converter
 
-- ## Circular Primes
+31. ### Circular Primes
 
-- ## Pseudo-Random Number Generator
+32. ### Pseudo-Random Number Generator
 
-- ## Friday the 13th
+33. ### Friday the 13th
 
-- ## Latin Squares
+34. ### Latin Squares
 
-- ## Number of Days
+35. ### Number of Days
 
-- ## UUID
+36. ### UUID
