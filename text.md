@@ -1,65 +1,65 @@
 ## Text
 
-RSS Feed Creator
+1. ### RSS Feed Creator
 
-Morse Code Maker
+2. ### Morse Code Maker
 
-Guestbook / Jounal
+3. ### Guestbook / Jounal
 
-Nes Ticker and Game Scores
+4. ### Nes Ticker and Game Scores
 
-Random Gift Suggestions
+5. ### Random Gift Suggestions
 
-Text to HTML Generator
+6. ### Text to HTML Generator
 
-Pig Latin
+7. ### Pig Latin
 
-Rovarspraket
+8. ### Rovarspraket
 
-Disemvoweler
+9. ### Disemvoweler
 
-In Order
+10. ### In Order
 
-Typoglycemia
+11. ### Typoglycemia
 
-Regex Query Tool
+12. ### Regex Query Tool
 
-Fizz Buzz
+13. ### Fizz Buzz
 
-Reverse a String
+14. ### Reverse a String
 
-Count Volwels
+15. ### Count Volwels
 
-Check if Palindrome
+16. ### Check if Palindrome
 
-Count Words in a String
+17. ### Count Words in a String
 
-Text Editor
+18. ### Text Editor
 
-CD Key Generator
+19. ### CD Key Generator
 
-Stock Tracker
+20. ### Stock Tracker
 
-Post it Notes
+21. ### Post it Notes
 
-Horoscope Teller
+22. ### Horoscope Teller
 
-Wandering Fingers
+23. ### Wandering Fingers
 
-Helf the String
+24. ### Helf the String
 
-MD5 Hash Generator
+25. ### MD5 Hash Generator
 
-Caesar's cipher
+26. ### Caesar's cipher
 
-Calculator
+27. ### Calculator
 
-Child Name Generator
+28. ### Child Name Generator
 
-Spelling with Chemistry
+29. ### Spelling with Chemistry
 
-Voodlewoodlel
+30. ### Voodlewoodlel
 
-Scooby Doo
+31. ### Scooby Doo
 
-Password Generator
+32. ### Password Generator
