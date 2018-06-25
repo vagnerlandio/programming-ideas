@@ -1,36 +1,57 @@
 ## Numbers
 
 1. ### Distance Between Two Cities
+Difficulty: Beginner
+
 Develop a program that calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
 2. ### Tax Calculator
+Difficulty: Beginner
+
 Develop a program that asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
 3. ### Factorial Finder
+Difficulty: Beginner
+
 The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1. Also the factorial of zero, 0, is defined as being 1. Develop a program that solves the factorial of any user given number using both loops and recursion.
 
 4. ### Happy Numbers
+Difficulty: Beginner
+
 A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the sqaures of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which doas not include 1. Those numbers for which this process end in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Find the first 8 happy numbers.
 
 5. ### Coin Flip Sumulation
+Difficulty: Beginner
 Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the numbers of tails and heads.
 
 6. ### Household Budget Program
+Difficulty: Expert
+
 Create a full GUI program that allows the user to enter in and setup a household budget. They can enter in unlimited number of budget categories like Utilities, Travel Expenses, or Child Cate. Then let the use enter in X number of sub-items for each of these categories listing their monthly expenses along with any income items. Have the program keep track of their expenses and their cash flow. This program should let the user know if they are overspending o how much they are saving for the month or year.
 
 7. ### Calculator
+Difficulty: Intermediate
+
 A simple calculator to do basic operations. Make it a scientific calculator for added complexity.
 
 8. ### Find Pi to the Nth Digit
+Difficulty: Beginner
+
 Develop a program that has the user enter a number. Your program should print out Pi up to that many decimal places. Try to keep a limit as to how far the program will go.
 
 9. ### Find e to the Nth Digit
+Difficulty: Beginner
+
 Develop a program that has the user enter a number. Your program should print out 'e' up to that many decimal places. Keep a limit as to how far the program will go.
 
 10. ### Fibonacci Sequence
+Difficulty: Beginner
+
 Develop a program that has the user enter a number. Your program should print out the Fibonacci sequence to that number or to the Nth number.
 
 11. ### Prime Factorization
+Difficulty: Beginner
+
 Develop a program that has the user enter a number and find all the Prime Factors (if there are any) and display them.
 
 12. ### Next Prime Number
