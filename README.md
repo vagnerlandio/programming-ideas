@@ -49,7 +49,9 @@ You can download the App from the follow link [Programming Idea 2 on Google Play
 <hr />
 
 ### <img src="images/categories/48/multimedia.png" /> Graphics and Multimedia
-[Ideas count: 17](graphics_and_multimedia.md) ___
+[Ideas count: 17](graphics_and_multimedia.md)
+
+<hr />
 
 ### <img src="images/categories/48/games.png" /> Games
 [Ideas count: 20](games.md)
