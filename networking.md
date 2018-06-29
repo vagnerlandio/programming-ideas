@@ -1,6 +1,9 @@
 ## Networking
 
 1. ### Fetch Current Weather
+Difficulty: Intermediate
+
+Get the current weather for a given zip/postal code.
 
 2. ### Chat Application (IRC or MSN Style)
 Difficulty: Expert
