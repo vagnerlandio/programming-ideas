@@ -38,6 +38,9 @@ Difficulty: Expert
 Pig Latin is a game of alterations played on the English language game. To create the pig latin form of a word the inital consonant sound is transposed to the end of the word and an 'ay' is affixed. Example: "banana" would yield 'ananabay'. Make a program that converts a word or a sentence to Pig Latin. For added difficulty, if users input only numbers notify them of a translation error.
 
 8. ### Rovarspraket
+Difficulty: Intermediate
+
+Rovarspraket which means "Robber's language" in Swedish is not very complicated. You take an ordinary word and replace the consonants with the consonant doubled with an 'o' between them. For example 'b' becomes 'bob', m becomes 'mom'. Vowels are left intact. Make a program that translates any length of string into Rovarspraket. For added difficulty, make it able to translate to and from Rovarspraket.
 
 9. ### Disemvoweler
 Difficulty: Intermediate
